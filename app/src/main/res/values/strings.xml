@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Lab Escape</string>
+    <!-- Сюда можно вынести все тексты из GameManager -->
+</resources>
